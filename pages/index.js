@@ -4,7 +4,7 @@ import Carousel from "/components/Carousel";
 import Header from '../components/Header'; // Ensure this is a valid React component
 import Footer from '../components/Footer'; // Ensure this is a valid React component
 // import { useEffect } from 'react';
-import Partners from '/Components/Partners';
+import Partners from '../components/Partners';
 import { useState, useEffect } from 'react';
 import Image from "next/image";
 import DarkModeToggle from '../components/DarkModeToggle';
